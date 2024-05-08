@@ -36,10 +36,10 @@ Hoje estou disponível à novas oportunidades como Analista de Qualidade de Soft
   - Javascript, Selenium, Cypress.
   
 :pushpin: **Testes Funcionais**
-- Tenho experiência em testes unitários e de integração nas duas stacks, tanto de Front-end quanto de Back-end.
+- Tenho experiência em testes unitários e de integração nas duas stacks, tanto de Front-end quanto de Back-end, e testes de acessibilide no Front-end. 
 
 :pushpin: **Testes Não-Funcionais**
-- Tenho experiência em testes de UX e testes de acessibilide no Front-end. 
+- Tenho experiência em testes de UX.
   
 :pushpin: **Testes de API**
 - Tenho conhecimento no desenvolvimento de planos de testes, testes automatizados e aplicação de testes automatizados e manuais de API, utilizando recursos como Postman e Swagger.
