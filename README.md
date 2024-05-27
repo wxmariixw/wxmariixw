@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=wxmariixw&color=006bed)
+
 # :wave: Bem vindo!
 Seja bem vindo ao meu portifólio! Aqui você encontrará um pouco sobre minha história na área da tecnologia e também poderá encontrar alguns de meus projetos de destaque!
 
