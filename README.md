@@ -1,71 +1,95 @@
-![](https://komarev.com/ghpvc/?username=wxmariixw&color=006bed)
+![](https://gitwar.herokuapp.com/badge?username=wxmariixw)
 
-# :wave: Bem vindo!
-Seja bem vindo ao meu portifólio! Aqui você encontrará um pouco sobre minha história na área da tecnologia e também poderá encontrar alguns de meus projetos de destaque!
+# Olá, seja bem-vindo!
+Sou a Mariana, Analista de Qualidade de Software
 
-## :v: Sobre mim
-Olá! Meu nome é Mariana, sou Analista de Qualidade de Sistemas desde 2021, ~~entre 2023 e 2024 acabei me alinhando ao outro lado (como Desenvolvedora de Software Back-End, mas essa história eu conto mais pra frente!)~~. Sou uma pessoa curiosa, criativa, detalista, sincera e observadora, adoro animais e plantas, gosto muito de assistir filmes/séries, estudar e ler, essa sou eu!
+![aaaa](https://img.shields.io/badge/any_text-Linkedin-blue)
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/mariana-freitas-qa/" title="LinkedIn Profile"><img width="22" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFIO7GSBMKQnJ3ozrPVpjHfqSKxsXtAybqQ&s"> LinkedIn</a></code>
+  <code><a href="https://www.notion.so/wxmariixw/Portif-lio-QA-2b4976b8ad0849809b0352e46f250b93" title="Portifolio"> Portifólio </a></code>
+</h5>
+- 🔬 Atualmente estou estudando Ciências da Computação de forma auto-didata e Automação de teste
+- 🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP
+- 💬 Saiba mais sobre mim no meu portifólio [aqui](https://www.notion.so/wxmariixw/Portif-lio-QA-2b4976b8ad0849809b0352e46f250b93)
 
-## :books: Histórico Profissional
-Em 2021 iniciei meus estudos na áre d tecnologia, focando em Desenvolvimento de Software estudando por conta própria, comecei estudando HTML, CSS e um pouco de Javascript, além de Python. Em outubro decidi participar de um hackathon que a NASA (Sim! Aquela dos Estados Unidos) faz anualmente, onde conheci uma galera muito legal, uma dessas pessoas comentou sobre a vaga de Analista de Qualidade Junior na empresa que trabalhava, sinceramente naquela época nem sabia ainda o que era um Analista de Qualidade, mas mesmo assim achei que qualquer oportunidade na área era um passo inicial, e pedi pra ela me indicar, nisso fui pesquisando, entendendo o que era e percebi que me identificava bastante a área.
+## 🔥 Languages & Frameworks & Tools & Abilities
 
-Entrei para a empresa e trabalhei por 1 ano e meio como Analista QA Junior, durante esse tempo construi muitas experiências, desenvolvendo planos de testes, aplicando testes manuais, testes automatizados e cada vez me desenvolvendo mais como Analista de Qualidade de Software, conheci pessoas ótimas durante o processo e hoje em dia vejo minha evolução que a empresa e o time proporcionou, trabalhei com ferramentas como Jira, Confluence, Ruby, Cucumber, Capybara, além de atuar diáriamente com Scrum e Kanban.
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
+<hr>
 
-No ano de 2022 iniciei minha graduação em Análise e Desenvolvimento de Sistemas na FIAP, esta que me formei agora em março.
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-Em 2023 surgiu a oportunidade de atuar como desenvolvedora back-end Python, no qual atuei por 1 ano, onde além de desenvolver aplicações web em Python, abordando tecnologias como Azure Devops, Postman, também criava os testes automatizados unitários e de integração em Python, Pytest e Unittest, além de atuar na solução de bugs em conjunto com a equipe de QA.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-Hoje estou disponível à novas oportunidades como Analista de Qualidade de Software Junior/Pleno!
+<hr>
 
-## :computer: Habilidades
-:pushpin: **Cenários de testes**
-- Tenho experiência no desenvolvimento de cenários de testes, utilizando recursos como Gerkins, Confluence, Excel e Notion.
-  
-:pushpin: **Documentação de testes**
-- Tenho experiência no desenvolvimento de documentações de testes, utilizando recursos como Confluence, Word e Notion.
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-:pushpin: **Report de BUGs**
-- Tenho experiência no report e solução de bugs.
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-:pushpin: **Testes Manuais**
-- Tenho experiência na execução e acompanhamento da aplicação de testes manuais em aplicações Web e Mobile.
-
-:pushpin: **Testes Automatizados**
-- Tenho experiência no desenvolvimento, execução e acomanhamento da aplicação de testes automatizados, utilizando recursos como:
-  - Python, Unittest, Pytest;
-  - Ruby, Capibara, Cucumber.
-- Tenho conhecimento no desenvolvimento, execução e acompanhamento da aplicação de testes automatizados, utilizando recursos como:
-  - Javascript, Selenium, Cypress.
-  
-:pushpin: **Testes Funcionais**
-- Tenho experiência em testes unitários e de integração nas duas stacks, tanto de Front-end quanto de Back-end, e testes de acessibilide no Front-end. 
-
-:pushpin: **Testes Não-Funcionais**
-- Tenho experiência em testes de UX.
-  
-:pushpin: **Testes de API**
-- Tenho conhecimento no desenvolvimento de planos de testes, testes automatizados e aplicação de testes automatizados e manuais de API, utilizando recursos como Postman e Swagger.
-
-:pushpin: **Pipeline**
-- Tenho experiência no acompanhamento de pipelines de aplicações Web.
-
-:pushpin: **Banco de dados**
-- Tenho experiência com banco de dados SQL e NoSQL, trabalhando com ferramentas como Azure, Oracle, MongoDB.
-
-:pushpin: **Programação**
-- Tenho experiência com desenvolvimento de softwares em Python.
-- Tenho conhecimento de código de Javascript
-
-:pushpin: **Metogologias de gestão**
-- Tenho experiência em metodologias de gestão como Scrum e Kanbam.
-
-## :dart: Próximos objetivos
-1. - [ ] Aprimorar meu conhecimento sobre Testes Automatizados
-2. - [ ] Aprimorar meu conhecimento sobre Acessibilidade
-3. - [ ] Desenvolver conhecimento sobre Testes de Segurança
-4. - [ ] Desenvolver conhecimento sobre Testes de Desempenho
-
-## :phone: Contato
-- ![mail](https://socialize-md.vercel.app/api/badge/mail) Email: marisftsabreu@gmail.com
-- ![linkedin](https://socialize-md.vercel.app/api/badge/linkedin) Linkedin: [Mariana Freitas](https://www.linkedin.com/in/mariana-freitas-0a8058172/)
-- :page_facing_up: Curriculo: [Mariana Freitas](https://drive.google.com/file/d/1gouTfd6YpnfUeoE8eVnfGHphaLqpvYcy/view?usp=sharing)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wxmariixw)](https://git.io/streak-stats)
