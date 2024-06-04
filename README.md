@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wxmariixw/wxmariixw/blob/main/README.en.md)
 # :wave: Oiê!
 Sou a Mariana Freitas, uma Analista de Qualidade de Sistemas com 2,5 anos de experiência na área tech
 
