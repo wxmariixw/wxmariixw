@@ -1,12 +1,12 @@
-# :wave: Oiê!
-Sou a Mariana Freitas, uma Analista de Qualidade de Sistemas com 2,5 anos de experiência na área tech
+# :wave: Hi there!
+I'm Mariana Freitas, a Software Quality Analyst with 2,5 years of experience in IT.
 
-Neste perfil você encontrará alguns de meus projetos mais relevantes, principalmente de automação de testes.
+At this profile you'll find some of my more relevant projects, mainly my automation tests projects.
 
-Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu portifólio [aqui](https://www.notion.so/wxmariixw/Portif-lio-QA-2b4976b8ad0849809b0352e46f250b93)
+To know more about my journey as Software Quality Analyst follow my portifolio [here](https://www.notion.so/wxmariixw/Portif-lio-QA-2b4976b8ad0849809b0352e46f250b93)
 
 # :wrench: Skills
-## Linguagens de programação
+## Programation Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -21,12 +21,12 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Banco de dados
+## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Ferramentas, Frameworks e Bibliotecas
+## Tools, Frameworks e Libraries
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,13 +36,11 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-## Testes
+## Tests
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-# :e-mail: Contato
+# :e-mail: Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisftsabreu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-freitas-qa/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-freitas-qa/?locale=en_US)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
