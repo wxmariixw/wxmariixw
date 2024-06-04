@@ -47,3 +47,6 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-freitas-qa/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
