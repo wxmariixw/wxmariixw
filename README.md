@@ -49,4 +49,73 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 7.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                27 commits          ████████████████░░░░░░░░░   64.29 % 
+🌃 Evening                13 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   16 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+Tuesday                  12 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JSON                     8 mins              ██████████░░░░░░░░░░░░░░░   41.47 % 
+YAML                     6 mins              ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+
+🔥 Editors: 
+VS Code                  21 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+wxmariixw                11 mins             ██████████████░░░░░░░░░░░   54.77 % 
+api-anlib                9 mins              ███████████░░░░░░░░░░░░░░   45.23 % 
+
+💻 Operating System: 
+Linux                    21 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/06/2024 18:41:09 UTC
 <!--END_SECTION:waka-->
