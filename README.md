@@ -49,11 +49,15 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 37 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,20 +92,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     8 mins              ██████████░░░░░░░░░░░░░░░   41.47 % 
-YAML                     6 mins              ████████░░░░░░░░░░░░░░░░░   30.04 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Bash                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+YAML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+TypeScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Docker                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wxmariixw                11 mins             ██████████████░░░░░░░░░░░   54.77 % 
-api-anlib                9 mins              ███████████░░░░░░░░░░░░░░   45.23 % 
+api-anlib                50 mins             ████████████████████░░░░░   80.95 % 
+wxmariixw                11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +122,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 18:41:09 UTC
+ Last Updated on 06/06/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
