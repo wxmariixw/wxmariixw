@@ -57,6 +57,8 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 
 > 📦 7.5 kB Used in GitHub's Storage 
  > 
+> 🏆 37 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -90,20 +92,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     15 mins             ██████████░░░░░░░░░░░░░░░   38.33 % 
-TypeScript               12 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Docker                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-api-anlib                40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,5 +117,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 18:40:31 UTC
+ Last Updated on 13/06/2024 18:40:59 UTC
 <!--END_SECTION:waka-->
