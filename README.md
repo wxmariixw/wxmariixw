@@ -51,7 +51,7 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,5 +115,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2024 18:41:38 UTC
+ Last Updated on 08/08/2024 18:42:59 UTC
 <!--END_SECTION:waka-->
