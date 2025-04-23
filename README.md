@@ -57,6 +57,8 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 
 > 📦 7.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -115,5 +117,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:48:34 UTC
+ Last Updated on 23/04/2025 18:50:32 UTC
 <!--END_SECTION:waka-->
