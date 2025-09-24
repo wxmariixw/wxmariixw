@@ -49,6 +49,8 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -63,6 +65,45 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                27 commits          ████████████████░░░░░░░░░   64.29 % 
+🌃 Evening                13 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   16 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+Tuesday                  12 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -76,5 +117,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:48:57 UTC
+ Last Updated on 24/09/2025 18:47:06 UTC
 <!--END_SECTION:waka-->
