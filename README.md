@@ -49,9 +49,9 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -117,5 +117,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:51:12 UTC
+ Last Updated on 05/01/2026 18:56:01 UTC
 <!--END_SECTION:waka-->
