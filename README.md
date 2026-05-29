@@ -49,11 +49,13 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 9.2 kB Used in GitHub's Storage 
+> 📦 9.3 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -63,6 +65,45 @@ Para saber mais sobre minha jornada como Analista de Qualidade acompanhe meu por
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                27 commits          ██████████████░░░░░░░░░░░   56.25 % 
+🌃 Evening                13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   16 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Tuesday                  12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Thursday                 12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -76,5 +117,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:56:08 UTC
+ Last Updated on 29/05/2026 20:58:10 UTC
 <!--END_SECTION:waka-->
