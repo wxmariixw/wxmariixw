@@ -95,4 +95,74 @@ Atualmente na **TOTVS** como Analista de Qualidade de Software, onde lidero refi
 [![GitHub Streak](https://streak-stats.demolab.com?user=wxmariixw&theme=dracula&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌆 Daytime                27 commits          ████████████░░░░░░░░░░░░░   49.09 % 
+🌃 Evening                20 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   23 commits          ██████████░░░░░░░░░░░░░░░   41.82 % 
+Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Thursday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/06/2026 20:30:08 UTC
 <!--END_SECTION:waka-->
