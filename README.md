@@ -150,11 +150,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in TypeScript** 
 
 ```text
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -164,5 +165,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/wxmariixw/wxmariixw/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:04:26 UTC
+ Last Updated on 09/07/2026 20:21:39 UTC
 <!--END_SECTION:waka-->
